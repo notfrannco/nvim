@@ -257,7 +257,8 @@
 
 vim.lsp.enable({
     "gopls",
-    "lua_ls"
+    "lua_ls",
+    "terraformls"
 })
 
 --  New on Neovim 0.11
